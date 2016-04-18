@@ -4,22 +4,38 @@
 
 ![flow](./instruction_assets/flow.jpg)
 
-### Instructions for **Team Leaders**
-- Clone the `iskomsai` [repository](https://github.com/dinosaurfiles/iskomsai.git).
-- Make a new `branch` with the corresponding name `<module_name>-master` (E.g. `faculty-master`, `student-master`, etc.).
+# Instructions for **Team Leaders**
+- Clone the `iskomsai` [repository](https://github.com/dinosaurfiles/iskomsai.git) by forking the repository on the `dinosaurfiles/iskomsai` on the main page.
 
-    *This is where the code of all group members go.*
+    ![fork fork!](./instruction_assets/fork.png)
+
 
 - Add your team members as a collaborator.
 
     ![team collab is lov](./instruction_assets/collab.png)
 
+- On your own `iskomsai` repository (Ex: `jasondbajade/iskomsai`). Make a new `branch` with the corresponding name `<module_name>-master` (E.g. `faculty-master`, `student-master`, etc.).
+
+    ![master branches](./instruction_assets/masterbranches.png)
+
+    *This is where the code of all group members go.*
+
+- Make another branch with your own branch name, (Ex. `student-bajade`)
+
+    ![asdasd](./instruction_assets/newpersonalbranch.png)
+
 
 `Note:` Pull requests should be made when a feature is implemented successfully or not known bugs are found.
 
-### Instructions for **All Members**
-- Clone the repository of your team leader and check if you have access to the repository.
-- Create a new `branch` with the corresponding name `<module_name>_<yourname>` (E.g. `faculty-aaa`, `student-bbb`, etc.).
+# Instructions for **Team Members**
+- Clone/Fork the repository of your team leader and check if you have access to the repository.
+
+    ![clone](./instruction_assets/members clone.png)
+
+- on your own `iskomsai` (Ex. `digracesion/iskomsai`). Create a new `branch` with the corresponding name `<module_name>_<yourname>` (E.g. `faculty-aaa`, `student-bbb`, etc.).
+
+    ![neat](./instruction_assets/neat.png)
+
 - Make changes in the [`ProjectMembers.md`](ProjectMembers.md) file by inserting your name on your respective module.
 
     *This is actually a test to see if you can read/write on the repository*
