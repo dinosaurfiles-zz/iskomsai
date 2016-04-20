@@ -10,7 +10,7 @@
     ![fork fork!](./instruction_assets/fork.png)
 
 
-- Add your team members as a collaborator.
+- Add your team members as a collaborator on your **own** repository.
 
     ![team collab is lov](./instruction_assets/collab.png)
 
@@ -20,44 +20,49 @@
 
     *This is where the code of all group members go.*
 
-- Make another branch with your own branch name, (Ex. `student-bajade`)
+- Now, Clone your repository to your desktop
 
-    ![asdasd](./instruction_assets/newpersonalbranch.png)
+    ![asdasd](./instruction_assets/Capture.PNG)
 
+- Create another branch of with your name (E.g. `student-bbb`) and make sure that the `From branch` is the `module-master` branch
+
+    ![asdasd](./instruction_assets/yeah.PNG)
 
 `Note:` Pull requests should be made when a feature is implemented successfully or not known bugs are found.
 
 # Instructions for **Team Members**
-- Clone/Fork the repository of your team leader and check if you have access to the repository.
+- Fork the repository of your team leader and check if you have access to the repository.
 
-    ![clone](./instruction_assets/members clone.png)
+    ![clone](./instruction_assets/forkorclone.PNG)
 
-- on your own `iskomsai` (Ex. `digracesion/iskomsai`). Create a new `branch` with the corresponding name `<module_name>_<yourname>` (E.g. `faculty-aaa`, `student-bbb`, etc.).
+- On your own `iskomsai` (Ex. `digracesion/iskomsai`) clone the repository to your desktop.
 
-    ![neat](./instruction_assets/neat.png)
+    ![neat](./instruction_assets/onthefreakingdesktop.PNG)
 
-- Make changes in the [`ProjectMembers.md`](ProjectMembers.md) file by inserting your name on your respective module.
+- Create another branch of with your name (E.g. `student-bbb`) and make sure that the `From branch` is the `module-master` branch
+
+    ![neat](./instruction_assets/yeah.PNG)
+
+- Before you make your changes be sure you are on the right respective branch.
+
+    ![neat](./instruction_assets/yeahagain.PNG)
+
+- Make the changes in the [`ProjectMembers.md`](ProjectMembers.md)! Be it on your favorite text editor or the CLI by inserting your name on your respective module.
+
+    `Note:`**Project Leaders will do this as well**
+
+    ![neat](./instruction_assets/edit.PNG)
 
     *This is actually a test to see if you can read/write on the repository*
 
-- Do the `add-commit-push` git cycle.
-   - git add
-   - git commit
-   - git push
+- Check if the changes are done! And commit your code. Add some meaningful Title and Description.
 
-- On Github make a pull request with your team leader by selecting your own branch (`faculty-aaa`) and the team leader's `<module_name>_master` branch.
-Wait for the team leader to accept your pull request.
+    ![neat](./instruction_assets/yawwww.PNG)
+    *Check the changes. Make sure that you committed on your own branch[3]*
 
-    ![Requests are awesome](./instruction_assets/pull.png)
-    *On the homepage*
+- Its time to pull your code to the `module-master` repository!
 
-    ![Requests are awesome](./instruction_assets/src-destination.png)
-    *Add an on-spot title and description*
-
-- the **Team Leader** will have to wait until the all the team members have added their name on the `ProjectMembers.md` file.
-
-- Watch your name get merged on the **main repository**.
-
+    ![neat](./instruction_assets/pulllllme.PNG)
 
 ## Done and Congrats! YEY !
 *This is a sample test to apply your learned git skills such as the basic add-commit-push, and handling of merges conflicts.*
