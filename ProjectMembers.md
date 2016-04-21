@@ -13,3 +13,5 @@ Student Module:
 Alumni Module:
 
     Anfernee Sodusta
+
+    Derick Fadullan
